@@ -12,18 +12,18 @@ font_size: L
 
 # SEO
 
-site_type: Person
-local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
+#site_type: Person
+#local_business_type: ''
+#org_name: ''
+#description: ''
+#twitter: ''
 
 # Contact (edit or remove options as required)
 
 email: mansur@uri.edu
 #phone: 888 888 88 88
 address:
-  street: 211 S Ferry Rd
+  street: 211 South Ferry Rd
   city: Narragansett
   region: RI
   postcode: '02882'
@@ -122,7 +122,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 'mapbox'
   api_key: ''
   zoom: 15
 marketing:
