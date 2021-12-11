@@ -15,7 +15,7 @@ organizations:
   url: https://web.uri.edu/gso/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -28,11 +28,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Oceanography (Physical)
-    institution: University of Rhode Island, RI
-    year: 2023 (expected)
+  - course: PhD in Oceanography   (Physical)   
+    institution:   University of Rhode Island, RI
+    year: 2023 (Expected)
   - course: MSc in Coastal Marine and Wetland Studies
-    institution: Coastal Carolina Univeristy, SC
+    institution: Coastal Carolina University, SC
     year: 2017
   - course: BSc in Civil and Environmental Engineering
     institution: Islamic University of Technology, Bangladesh
