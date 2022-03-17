@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Working Experiences
+title: Appointments
 subtitle:
 
 # Date format for experience
@@ -30,8 +30,6 @@ experience:
     date_start: '2018-05-21'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
         * Modeling hurricane intensity and structure during landfall
         * Three-dimensional boundary layer wind model development.
         * High performance computing.
@@ -44,7 +42,10 @@ experience:
     location: South Carolina
     date_start: '2015-08-01'
     date_end: '2017-07-15'
-    description: Monitoring, Modeling, and Forecast Coastal Weather Events
+    description: |2-
+        * Modeling Hurricane-Ocean interactions using a coupled atmosphere - ocean model.
+        * Simulating future scenario of storm surge and inundation using Delft3D.
+        * Data analysis & visualization.
         
   - title: Research Assistant
     company: Institute of Water and Flood Management, Bangladesh.
@@ -53,7 +54,10 @@ experience:
     location: Dhaka, Bangladesh
     date_start: '2013-12-01'
     date_end: '2015-08-15'
-    description: Present and Future Scenario of Storm Surge and Inundation in Coastal Bangladesh
+    description: |2-
+        * Present and Future Scenario of Storm Surge and Inundation in Coastal Bangladesh.
+        * Evaluating the efficiency of coastal polders using Delft3D hydrodynamic model. 
+
 
 design:
   columns: '2'

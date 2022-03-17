@@ -49,12 +49,19 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=qnThhXgAAAAJ&hl=en&oi=ao
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Mansur-Ali-Jisan
 - icon: github
   icon_pack: fab
   link: https://github.com/mjisan
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/xisan
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/xisan
+ 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,4 +77,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a Ph.D. candidate at the University of Rhode Island's Graduate School of Oceanography. I'm working in the <a href=https://web.uri.edu/hurricane-research/ target=_blank rel=noopener>Hurricane Research Group</a> under the supervision of Dr. Isaac Ginis. My research focuses on improving the surface wind forecast during the landfall of hurricanes. As part of that project, I am developing a physics-based Hurricane Boundary Layer wind model that simulates the surface wind during landfall considering the frictional effect of local land cover characteristics.    
+I am a Ph.D. candidate at the University of Rhode Island's Graduate School of Oceanography. I'm working in the <a href=https://web.uri.edu/hurricane-research/ target=_blank rel=noopener>Hurricane Research Group</a> under the advisement of <a href=https://web.uri.edu/gso/meet/isaac-ginis/ target=_blank rel=noopener>Dr. Isaac Ginis</a>. My research focuses on improving the surface wind forecast during the landfall of hurricanes. As part of that project, I am developing a physics-based three-dimensional Hurricane Boundary Layer (HBL) wind model that simulates the surface wind during landfall considering the frictional effect of local land cover characteristics. A demonstration of the HBL model simulated surface wind for Hurricane Michael (2018) in 1km resolution can be viewd <a href=http://uri-hurricanes.info/HBL_Michael_TRIM.mp4 target=_blank rel=noopener> here</a>.    

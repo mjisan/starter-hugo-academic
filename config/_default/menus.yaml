@@ -16,12 +16,21 @@ main:
   # name: Talks
   # url: '#talks'
   # weight: 40
+  - name: Appointments
+    url: '#experience'
+    weight: 20
   - name: Publications
     url: '#publications'
-    weight: 20
+    weight: 30
+  - name: News/Interviews
+    url: '#talks'
+    weight: 40
+  - name: Weather Maps
+    url: 'http://uri-hurricanes.info/maps.html'
+    weight: 50 
   - name: Contact
     url: '#contact'
-    weight: 30
+    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

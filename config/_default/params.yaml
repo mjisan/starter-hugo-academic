@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: ocean
+theme: minimal
 day_night: true
 font: ''
 font_size: L
@@ -20,10 +20,10 @@ font_size: L
 
 # Contact (edit or remove options as required)
 
-email: mansur@uri.edu
+email: mansur[at]uri.edu
 #phone: 888 888 88 88
 address:
-  street: 211 South Ferry Rd
+  street: Watkins Laboratory, 211 South Ferry Rd
   city: Narragansett
   region: RI
   postcode: '02882'
@@ -137,3 +137,5 @@ cms:
 icon:
   pack:
     ai: true
+marketing:
+  google_analytics: UA-81120250-1
